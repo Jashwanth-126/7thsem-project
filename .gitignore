@@ -1,0 +1,13 @@
+# Backend
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/scratch/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Root
+node_modules/
+.env
