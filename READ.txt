@@ -1,0 +1,6 @@
+Here are the files that have been changed:
+
+farmer.py - Added image URL joining logic to the farmer_dashboard endpoint
+pfo.py - Added image URL joining logic to the pending_crop_verifications endpoint
+FarmerDashboard.js - Added onCropAdded callback prop to CropListingForm
+CropListingForm.js - Updated to accept callback, reset form, and refresh crops list after adding a new crop

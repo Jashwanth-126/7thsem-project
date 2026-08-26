@@ -1,0 +1,197 @@
+{
+  "live_bids": [
+    {
+      "auction": {
+        "auction_end": "2026-05-12T20:27:19.725528",
+        "auction_start": "2026-05-10T20:27:19.725528",
+        "auction_status": "closed",
+        "closed_at": "2026-05-10T20:30:31.436147+00:00",
+        "closed_by_pfo": true,
+        "created_at": "2026-05-10T20:27:19.725528",
+        "crop_id": 8,
+        "id": 3,
+        "winning_bid_id": 3
+      },
+      "bids": [
+        {
+          "bid_amount": 300.0,
+          "bid_status": "active",
+          "bidder_id": 1,
+          "bidder_role": "dealer",
+          "created_at": "2026-05-10T20:27:57.744366",
+          "crop_id": 8,
+          "id": 3,
+          "updated_at": "2026-05-10T20:30:03.273287"
+        }
+      ],
+      "crop": {
+        "created_at": "2026-05-10T14:55:51.947985",
+        "crop_category": "Fruits",
+        "crop_name": "APPLE",
+        "crop_variety": "...",
+        "district": "Hassan",
+        "expected_price": "260",
+        "farmer_id": 10,
+        "farmer_name": "anu",
+        "harvest_date": "2026-05-13",
+        "id": 8,
+        "pfo_remarks": "VERY GOOD PRODUCT ",
+        "pickup_option": "Self Delivery",
+        "qr_traceability_id": "8a724724",
+        "quality_grade": "Green",
+        "quantity": "100",
+        "rejection_reason": "",
+        "unit": "Kg",
+        "verification_status": "verified",
+        "verified_at": "2026-05-10T20:27:19.415968",
+        "verified_by": "jashu_pfo",
+        "verified_district": "Hassan"
+      }
+    },
+    {
+      "auction": {
+        "auction_end": "2026-05-15T12:03:44.639764",
+        "auction_start": "2026-05-13T12:03:44.639764",
+        "auction_status": "closed",
+        "closed_at": null,
+        "closed_by_pfo": true,
+        "created_at": "2026-05-13T12:03:44.639764",
+        "crop_id": 9,
+        "id": 4,
+        "winning_bid_id": null
+      },
+      "bids": [
+        {
+          "bid_amount": 70.0,
+          "bid_status": "active",
+          "bidder_id": 1,
+          "bidder_role": "retailer",
+          "created_at": "2026-05-13T12:04:15.334292",
+          "crop_id": 9,
+          "id": 4,
+          "updated_at": "2026-05-13T12:04:15.334292"
+        }
+      ],
+      "crop": {
+        "created_at": "2026-05-13T06:32:37.160056",
+        "crop_category": "Grains",
+        "crop_name": "RICE",
+        "crop_variety": "...",
+        "district": "Hassan",
+        "expected_price": "55",
+        "farmer_id": 10,
+        "farmer_name": "anu",
+        "harvest_date": "2026-05-20",
+        "id": 9,
+        "pfo_remarks": "GOOD",
+        "pickup_option": "Self Delivery",
+        "qr_traceability_id": "159aca10",
+        "quality_grade": "Green",
+        "quantity": "500",
+        "rejection_reason": "",
+        "unit": "Kg",
+        "verification_status": "verified",
+        "verified_at": "2026-05-13T12:03:44.120967",
+        "verified_by": "jashu_pfo",
+        "verified_district": "Hassan"
+      }
+    },
+    {
+      "auction": {
+        "auction_end": "2026-05-15T17:20:44.700081",
+        "auction_start": "2026-05-13T17:20:44.699086",
+        "auction_status": "closed",
+        "closed_at": null,
+        "closed_by_pfo": true,
+        "created_at": "2026-05-13T17:20:44.699086",
+        "crop_id": 10,
+        "id": 5,
+        "winning_bid_id": null
+      },
+      "bids": [
+        {
+          "bid_amount": 770.0,
+          "bid_status": "active",
+          "bidder_id": 1,
+          "bidder_role": "retailer",
+          "created_at": "2026-05-13T17:23:45.698013",
+          "crop_id": 10,
+          "id": 5,
+          "updated_at": "2026-05-13T17:28:19.638553"
+        }
+      ],
+      "crop": {
+        "created_at": "2026-05-13T11:48:52.17608",
+        "crop_category": "Fruits",
+        "crop_name": "Grapes",
+        "crop_variety": "...",
+        "district": "Hassan",
+        "expected_price": "55",
+        "farmer_id": 10,
+        "farmer_name": "anu",
+        "harvest_date": "2026-05-14",
+        "id": 10,
+        "pfo_remarks": "good",
+        "pickup_option": "Self Delivery",
+        "qr_traceability_id": "0c3283dd",
+        "quality_grade": "Green",
+        "quantity": "30",
+        "rejection_reason": "",
+        "unit": "Kg",
+        "verification_status": "verified",
+        "verified_at": "2026-05-13T17:20:44.308541",
+        "verified_by": "jashu_pfo",
+        "verified_district": "Hassan"
+      }
+    },
+    {
+      "auction": {
+        "auction_end": "2026-05-15T19:22:19.20623",
+        "auction_start": "2026-05-13T19:22:19.20623",
+        "auction_status": "closed",
+        "closed_at": null,
+        "closed_by_pfo": true,
+        "created_at": "2026-05-13T19:22:19.20623",
+        "crop_id": 11,
+        "id": 6,
+        "winning_bid_id": null
+      },
+      "bids": [
+        {
+          "bid_amount": 100.0,
+          "bid_status": "active",
+          "bidder_id": 1,
+          "bidder_role": "retailer",
+          "created_at": "2026-05-13T19:22:44.578378",
+          "crop_id": 11,
+          "id": 6,
+          "updated_at": "2026-05-13T21:59:45.195616"
+        }
+      ],
+      "crop": {
+        "created_at": "2026-05-13T13:48:44.977297",
+        "crop_category": "Fruits",
+        "crop_name": "RAGI",
+        "crop_variety": "...",
+        "district": "Hassan",
+        "expected_price": "55",
+        "farmer_id": 10,
+        "farmer_name": "anu",
+        "harvest_date": "2026-05-14",
+        "id": 11,
+        "pfo_remarks": "GOOD",
+        "pickup_option": "Self Delivery",
+        "qr_traceability_id": "41e4b214",
+        "quality_grade": "Green",
+        "quantity": "25",
+        "rejection_reason": "",
+        "unit": "Kg",
+        "verification_status": "verified",
+        "verified_at": "2026-05-13T19:22:18.724723",
+        "verified_by": "jashu_pfo",
+        "verified_district": "Hassan"
+      }
+    }
+  ],
+  "success": true
+}
