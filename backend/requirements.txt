@@ -2,7 +2,6 @@ Flask
 flask-cors
 supabase
 python-dotenv
-requests
-Pillow
-qrcode
+Flask-Mail
 cryptography
+gunicorn
