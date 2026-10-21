@@ -6,3 +6,4 @@ Flask-Mail
 cryptography
 gunicorn
 qrcode
+Pillow
